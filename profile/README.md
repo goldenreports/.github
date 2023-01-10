@@ -1,1 +1,1 @@
-Welcome to Golden Reports
+![Golden Reports logo](https://github.com/golden-reports/art/raw/main/highres/customcolor/full/customcolor_logo_customcolor_background.png "Golden Reports logo")
